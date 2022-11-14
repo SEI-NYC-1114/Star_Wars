@@ -1,0 +1,23 @@
+creating your own repository: 
+0.) git init (inside )
+1.) go into GitHub and create the repo in the browser 
+2.) git remote add origin (url)... the URL is what you just created in the browser 
+3.) git add . for all files or git add filename to add just one file at a time 
+4.) git commit -m "message" created a message that actually shows up on github and can be seen by potential employeers in the repo 
+5.) git push origin (nameofbranch) and for the name of the branch is alwyas master
+
+FORKING AND CLONING to submut hW
+
+1.) Fork the repo over to your own version. 
+2.) clone it down from your forked version.  make sure your URL that youre colning hsd yout name 
+3.)make my changes 
+4.) git add (file . or all)
+5.) git commit -m "something useful" 
+6.) git push origin master 
+
+
+
+
+other notes: 
+
+git staues shows you the status of what has changed since your most reecent commit 
