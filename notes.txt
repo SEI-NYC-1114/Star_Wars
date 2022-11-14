@@ -6,3 +6,17 @@ CREATING YOUR OWN REPO:
 4. git add . for all files or git add (fileName) to add just one file at a time.
 5. git commit -m "message" created a message that actually shows up on GitHub and can be seen by potentail employers on the repo 
 6. git push origin (nameOfBranch) and for now the name of the branch is almost always main or master
+
+FORKING AND CLONING TO SUMMIT MY HW:
+1. Fork the Repo over to your own version. this is because you dont have access to push to GA's org but you will be able to push your own. 
+2. Clone it down from your fork version. make sure the URL that your're cloning has your name and not SEI-NYC-1114
+3. make my changes
+4. git add (file or . for all)
+5. git commit -m"Something not for latenightcommits.com"
+6. git push origin master ...git push should work itself for now 
+7. go into the pull request tab in the browser, it should be right next to the code tab on the top. click new pull (the green button) and create 
+
+
+other Notes:
+
+- git status shows you the status of what has chnaged since your most recent add and commit. 
