@@ -9,4 +9,25 @@ CREATING YOUR OWN REPO:
 5. git commit -m "with some message" created a message that actually
     shows up on Github and can be seen by potential employers on the repo
 6. git push origin (nameOfBranch) and for now, the name of the 
-    branch is almost always main or master
+    branch is almost always main or mastercd 
+
+FORKING AND CLONING TO SUBMIT MY HOMEWORK:
+1. Fork the repo over to your own version. This is because you 
+    don't have access to push to GA's org but you will be able to
+    push to your own.
+2.  Clone it down FROM YOUR FORKED VERSION. MAke syre tge URL that
+    you're cloning has your name and not SEI-NYC-1114.
+3. Make my changes
+4. git add (file or . for all)
+5. git commit -m "Something not for latenightcommits.com"
+6. git push origin master ...git push should work itself
+7. Go to the pull requests tab in the browser. It should be 
+    right next to the code tab on the top. Click new pull request.
+    Instead of the note that you put, please put your name.
+
+
+OTHER NOTES:
+
+-git status shows you the status of what has 
+    changed since your most recent add and commit
+-
