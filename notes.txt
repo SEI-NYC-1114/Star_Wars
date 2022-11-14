@@ -1,0 +1,12 @@
+CREATING YOUR OWN REPO:
+
+1. git init (inside of exaftly where you want your git created)
+2. Go into Git Hub and create the repo in browser
+3. git remote add origin (url) ... the URL is 
+    what you just created in the browser
+4. git add . for all files OR git add (fileName) to add just one
+    file at a time
+5. git commit -m "with some message" created a message that actually
+    shows up on Github and can be seen by potential employers on the repo
+6. git push origin (nameOfBranch) and for now, the name of the 
+    branch is almost always main or master
