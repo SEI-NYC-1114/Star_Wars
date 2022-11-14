@@ -1,0 +1,251 @@
+  star_wars git:(master) ✗ history | tail -n 250
+  405  mv football/egales.txt football/anythingElse.txt
+  406  cp football/giants.txt ./
+  407  cp -R art music 
+  408  cp -R music art
+  409  echo "i love giant" >> giants.txt
+  410  pwd
+  411  ls
+  412  git init 
+  413  git remote add origin https://github.com/SEI-NYC-1114/terminal-stuff.git
+  414  git remote -v
+  415  git add notes.txt 
+  416  git commit -m "These notes will help you with your homework tonghit"
+  417  git push orgin main
+  418  git push origin main 
+  419  git add .
+  420  git commit -m " I am lazy and I dont liek messages"
+  421  git push origin main 
+  422  cd ..
+  423  ls
+  424  clear 
+  425  git clone https://github.com/jozkan30/Star_Wars
+  426  ls
+  427  cd star_wars terminal 
+  428  cd Star_Wars terminal 
+  429  ls 
+  430  cd Star_Wars terminal/
+  431  ls
+  432  cd Star_Wars/
+  433  clear 
+  434  touch notes.txt 
+  435  ls
+  436  cd ..
+  437  ls
+  438  code .
+  439  open
+  440  clear 
+  441  cd code-along 
+  442  ls 
+  443  cd sei-nyc-1114
+  444  ls 
+  445  cd code-alongs
+  446  ls 
+  447  cd Star_Wars
+  448  code .
+  449  cd sei-nyc-1114/code-alongs
+  450  ls
+  451  cd Star_Wars
+  452  code .
+  453  cd ../terminal
+  454  code .
+  455  touch notes.txt
+  456* clear 
+  457  cd ..
+  458  ls 
+  459  cd Star_Wars
+  460  ls 
+  461  git commit -m "added most of my notes"
+  462  git add 
+  463  git add .
+  464  git commit -m "added most of my notes"
+  465  git push origin 
+  466  mkdir star_wars
+  467  mkdir star_wars/rebellion star_wars/empire 
+  468  touch star_wars/empire/darth.vader.txt
+  469  echo  "...heavy breathing..." >> star_wars/darth.vader.txt
+  470  echo " "...heavy breathing..." >> star_wars/empire/darthvader.txt\nclear \nclear\n"
+  471  clear 
+  472  echo  "...heavy breathing..." >> star_wars/empire/darth.vader.txt/
+  473  git add .
+  474  git commit -m "updated my notes and did more commannds"
+  475  git push origin master 
+  476  ls
+  477  cd star_wars
+  478  ls
+  479  mkdir star_wars/rebellion star_wars/empire 
+  480  ;s
+  481  ls
+  482  touch star_wars/empire/darth.vader.txt 
+  483  touch star_wars/empire/darth.vader.txt
+  484  cd empire 
+  485  ls
+  486  touch darth.vader.txt
+  487  cd ..
+  488  ls 
+  489  echo "...heavy breathing..." >> star_wars/empire/darth.vader.txt
+  490  echo "...heavy breathing..." >> darth.vader.txt
+  491  git add . 
+  492  git commit -m "Added More stuff" 
+  493  git add . 
+  494  git commit -m "more stuff" 
+  495  git add . 
+  496  git commit -m "more changes"
+  497  clear 
+  498  ls 
+  499  cd empire
+  500  ls 
+  501  echo "...heavy breathing..." >> darth.vader.txt/
+  502  echo "...heavy breathing..." >> darth.vader.txt
+  503  git add 
+  504  git add . 
+  505  git commit -m "more cahnges" 
+  506  git push origin master 
+  507  cd empire 
+  508  ls 
+  509  touch emperor_palpatine.txt
+  510  ls 
+  511  mv darth.vader.txt death_star
+  512  ls
+  513  cd death_star 
+  514  ls 
+  515  mv darth.vader.txt empire 
+  516  ls
+  517  ls 
+  518  touch darth.vader.txt
+  519  ls
+  520  echo "...heavy breathing..." >> darth.vader.txt
+  521  mkdir emperor_palpatine.txt
+  522  ls 
+  523  mkdir death_star
+  524  ls 
+  525  mv darth.vader.txt death_star
+  526  ls
+  527  cd death_star
+  528  ls
+  529  git add .
+  530  git commit -m " more changes"
+  531  git push origin master 
+  532  cd ..
+  533  ls 
+  534  touch rebellion/princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope." princess_leia.txt
+  535  cd rebellion
+  536  ls
+  537  echo "Help me, Obi-Wan…You’re my only hope." princess_leia.txt
+  538  touch rebellion/princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+  539  touch princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+  540  cd ..
+  541  touch star_wars/rebellion uke_skywalker.txt
+  542  cd rebellion
+  543  touch luke_skywalker.txt
+  544  ls
+  545  cd ..
+  546  cd rebellion
+  547  touch obi_wan.txt
+  548  ls 
+  549  mkdir millenium_falcon
+  550  ls 
+  551  cd millenium_falcon
+  552  touch han_solo.txt chewbacca.txt
+  553  ls 
+  554  cd ..
+  555  mv rebellion/*.txt  millenium_falcon
+  556  ls
+  557  mv rebellion/*.txt millenium_falcon
+  558  cd rebellion
+  559  ls 
+  560  millenium_falcon
+  561  cd .. 
+  562  ls
+  563  ls 
+  564  mv luke_skywalker.txt millenium_falcon
+  565  mv *.txt millenium_falcon
+  566  ls
+  567  cd millenium_falcon
+  568  ls
+  569  cd ..
+  570  mv rebellion/millenium_falcon death_star 
+  571  git add.
+  572  git commit -m "finished act 2" 
+  573  git push origin master 
+  574  ls
+  575  cd death_star
+  576  ls
+  577  mv cd ..
+  578  ls 
+  579  cd ..
+  580  re
+  581  cd rebellion
+  582  mkdir  millenium_falcon
+  583  ls 
+  584  cd millenium_falcon
+  585  cd ..
+  586  mkdir rebellion/millenium_falcon 
+  587  ls 
+  588  cd ..
+  589  ls 
+  590  cd star_wars
+  591  ls
+  592  cd death_star
+  593  ls
+  594  rm han_solo.txt
+  595  ls
+  596  mv */ txt millenium_fallcon 
+  597  mv *.txt millenium_fallcon 
+  598  cd..
+  599  cd ..
+  600  ls 
+  601  cd rebellion
+  602  ls 
+  603  rm millenium_falcon
+  604  la
+  605  ls
+  606  cd millenium_falcon
+  607  ls
+  608  cd .. 
+  609  cd ..
+  610  mv death_star/chewbacca.txt millenium_falcon
+  611  mv death_star/*.txt millenium_falcon
+  612  ls 
+  613  ../
+  614  ls
+  615  cd star_wars
+  616  ls
+  617  ls 
+  618  cd rebellion
+  619  ls 
+  620  rm millenium_falcon
+  621  ls
+  622  cd ..
+  623  ls
+  624  cd rebellion
+  625  ls
+  626  rm millenium_falcon
+  627  rm -rf millenium_falcon
+  628  ls
+  629  mkdir millenium_falcon 
+  630  ls
+  631  cd ..
+  632  mv death_star/*.txt millenium_falcon/
+  633  mv death_star/*.txt ./millenium_falcon
+  634  mv ./death_star/*.txt ./millenium_falcon
+  635  ls
+  636  cd rebellion
+  637  ls
+  638  cd ..
+  639  mv ./death_star/*.txt ./rebellion/millenium_falcon
+  640  ls
+  641  cd rebellion
+  642  ls
+  643  cd millenium_falcon
+  644  ls
+  645  cd..
+  646  ls
+  647  cd ..
+  648  mv ./rebellion/millenium_falcon/*.txt ./rebellion
+  649  touch empire/darht.vader.txt
+  650  mv empire/death_star/darth.vader.txt rebellion
+  651  rm -rf ./death_star
+  652  git add . 
+  653  git commit -m "finsihed 3rd act"
+  654  git push origin master
