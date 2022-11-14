@@ -1,0 +1,19 @@
+creating repo
+1 git init creates the git inside the folder.
+2 go to git and create repo in browser
+3 git remote add origin (url)
+4 git add . for all files or git aDD file name to add 1
+5 git commit -m with a message, creates a message thats put on gihub. can be seen by ANYONE
+6 git push origin (name of branch)  main or master
+7 git stattus shows youu the status of what has changed since last commit
+8 git remote -v shows you url of repo
+
+forking and cloning to submit hw
+1 fork repo since you dont hhave access to push to ga  org.
+2 clone it down from your forked version
+make changes
+3 git add . or git add file
+git status
+4 git commit -m + message
+5 git push orgin master
+6 pull request - instead of the default, please put name
