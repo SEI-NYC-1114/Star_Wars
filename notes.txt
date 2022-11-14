@@ -13,6 +13,10 @@ FORKING AND CLONING TO SUBMIT MY HOMEWORK:
 2. Clone it down FROM YOUR FORKED VERSION. Make sure the URL that you're cloning has your name and not SEI-NYC-1114
 3. Make my changes
 4. git add (file or . for all)
+5. git commit -m "Something not for latenightcommits.com"
+6. git push origin master -- git push should work itself for now
+7. Go into the pull requests tab in the browser. It should be right next to the code tab on the top. Click new pull request (the green button) and create the pull request. Instead of the default (message you put for what you did) please put your name and the homework you're submitting.
+
 
 OTHER NOTES:
 
