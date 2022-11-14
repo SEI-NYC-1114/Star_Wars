@@ -14,6 +14,7 @@ FORKING AND CLONING to submut hW
 4.) git add (file . or all)
 5.) git commit -m "something useful" 
 6.) git push origin master 
+7.) pull request. Put full name on HW
 
 
 
