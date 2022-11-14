@@ -16,7 +16,7 @@ FORKING AND CLONING TO SUBMIT HOMEWORK:
 4. git add (file or . for all)
 5. git commit -m "Something not for latenightcommits.com"
 6. git push origin master ... git push should work itself for now
-7. Go into the pull requests tab in the browswer. Make sure that you are in the repo and it will be  It should be right next to the code tab on the top. Click new pull request (the green button) and create the pull request. Instead of the default (message put for what you did) please put your name and the homework you're submitting. 
+7. Go into the pull requests tab in the browswer. Make sure that you are in your repo and it will make a pull request by default to wherever you forked it from. It should be right next to the code tab on the top. Click new pull request (the green button) and create the pull request. Instead of the default (message put for what you did) please put your name and the homework you're submitting. 
 
 Other Notes:
 - git status shows you the status of what has changed since your most recent add and commit.
