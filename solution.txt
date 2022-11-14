@@ -1,0 +1,191 @@
+1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  git --version
+    3  brew --version
+    4  brew install git
+    5  gitconfig --global user.name IsaacStyle
+    6  --global user.name IsaacStyle
+    7  git config --global user.name IsaacStyle
+    8  git config --global user.email Isaac.opra@gmail.com
+    9  git config --global core.editor "code --wait"
+   10  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   11  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   12  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   13  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   14  sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+   17  compaudit | xargs chmod g-w,o-w
+   18  echo $SHELL
+   19  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   20  code
+   21  brew doctor
+   22  brew update
+   23  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   24  sudo chown -R $isaac /usr/local/var/homebrew
+   25  brew doctor
+   26  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   27  sudo chown -R $(whoami) /usr/local/var/homebrew
+   28  sudo chown -R $isaac@sams-mbp /usr/local/var/homebrew
+   29  sudo chown -R $isaac /usr/local/var/homebrew
+   30  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   31  brew doctor
+   32  sudo chown -R $isaac /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   33  chmod u+w /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   34  xcode-select --install
+   35  software update
+   36  brew install node
+   37  sudo chown -R $isaac /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   38  chmod u+w /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   39  sudo chown -R $isaac /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   40  sudo chown -R $isaacokpara /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   41  id -un
+   42  sudo chown -R $isaac /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   43  git config --global init.defaultBranch main
+   44  git config --global core.editor "code --wait"
+   45  git config --global pull.rebase false
+   46  git --version
+   47  config --list
+   48  git config --list
+   49  touch ~/.gitignore_global
+   50  git config --global core.excludesfile ~/.gitignore_global
+   51  code ~/.gitignore_global
+   52  brew install gh
+   53  gh auth login
+   54  brew install node
+   55  brew doctor
+   56  chmod u+w /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   57  sudo chmod g+w /usr/local
+   58  sudo chgrp staff /usr/local
+   59  brew doctor
+   60  sudo chown -R $isaac:admin /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   61  sudo chown -R $isaac:admin /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functionssudo chown -R isaac:admin /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functio
+   62  sudo chown -R isaac:admin /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   63  brew doctor
+   64  brew install gh
+   65  brew link gh
+   66  brew install gh
+   67  brew link gh
+   68  gh auth login
+   69  brew install node
+   70  chmod u+w /usr/local/lib/python3.7/site-packages /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   71  brew install node
+   72  node -v\nnpm -v
+   73  npm i -g nodemon
+   74  npm install -g npm@9.1.1
+   75  mkdir seii-nycc-1114
+   76  cd seii-nycc-1114/
+   77  ls
+   78  mkdir code-alongs deliverables unit-one labs sandbox
+   79  ls
+   80  -i ls
+   81  ls -i
+   82  ls -a
+   83  git init
+   84  ls
+   85  ls -a
+   86  cd code-alongs
+   87  mkdir terminal && cd terminal
+   88  code
+   89  cd seii-nycc-1114
+   90  ls
+   91  cd code-alongs
+   92  ls
+   93  cd terminal
+   94  mkdir basketball music football art 
+   95  ls
+   96  mkdir imAges
+   97  touch never-ever-do-ths.txt
+   98  rm -rf new-directory
+   99  ls
+  100  cd code-alongs
+  101  touch notes.txt
+  102  cd terminal
+  103  touch music/giants.txt music/jets.txt musicc/eagles.txt
+  104  touch music/eagles.txt
+  105  mv music/giants.txt football/
+  106  mv music/*.txt football
+  107  mv football/eagles.txt football/anythingelse.txt
+  108  cp football/giants.txt ./
+  109  cp -R music art
+  110  pwd
+  111  echo "I love that we're 7-2 right now" >> giants.txt
+  112  echo "I can't believe they have 6 wins" >> football/jets.txt
+  113  git remote add origin https://github.com/IsaacStyle/terminal-notes.git
+  114  git remote -v
+  115  git add notes.txt
+  116  git remote -v
+  117  ls
+  118  .ls
+  119  ls -a
+  120  git add notes.txt
+  121  git commit -m "this is da notes"
+  122  cd ..
+  123  ls
+  124  git clone https://github.com/IsaacStyle/Star_Wars.git
+  125  ls
+  126  cd star_wars
+  127  ls
+  128  ls -a
+  129  touch notes.txt
+  130  git branch
+  131  git stttatus
+  132  git status
+  133  cd ..
+  134  ls
+  135  cd star_wars
+  136  code
+  137  code .
+  138* brew install gh
+  139* brew link gh
+  140* gh auth login
+  141* brew update
+  142* xcode-select --install
+  143* brew install node
+  144* node -v\nnpm -v
+  145* npm i -g nodemon
+  146* pwd
+  147* ls
+  148* ls -a
+  149* cd .npm
+  150* cd node_modules
+  151* ls
+  152* ls  -a
+  153* cd ..
+  154* ls
+  155* ls -a
+  156* cd usr
+  157  mkdir star_wars
+  158  cd star_wars
+  159  cd ..
+  160  mkdir star_wars/empire star_wars/rebellion
+  161  cd star_wars
+  162  touch empire/darth_vadeer.txt
+  163  mv empire/darth_vader empire_darth_vader.txt
+  164  mv empire/darth_vader empire/darth_vader.txt
+  165  mv empire/darth_vadeer.txt empire/darth_vader.txt
+  166  echo "...heavy breathing..." >> empire/darth_vader.txt
+  167  touch empire/emperor_palpatine.txt
+  168  mkdir empire/death_star
+  169  mv empire/darth_vader.txt empire/death_star/darth_vader.txt
+  170  touch rebellion/princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope." >> rebellion/princess_leia.txt
+  171  touch rebellion/obi_wan.txt
+  172  touch rebellion/luke_skywalker.txt
+  173  mkdir rebellion/millenium_falcon
+  174  touch rebellion/millenium_falcon/han_solo.txt rebellion/millenium_falcon/chewbacca.txt
+  175  mv rebellion/*.txt rebellion/millenium_falcon
+  176  mv rebellion/millenium_falcon empire/death_star
+  177  mv empire/millenium_falcon/*.txt empire/death_star
+  178  mv empire/death_star/millenium_falcon/*.txt empire/death_star
+  179  rm empire/death_star/obi_wan.txt
+  180  mv empire/death_star/*.txt empire/death_star/millenium_falcon && mv empire/death_star/millenium_falcon/darth_vader empire/death_star
+  181  mv empire/death_star/*.txt empire/death_star/millenium_falcon && mv empire/death_star/millenium_falcon/darth_vader.txt empire/death_star
+  182  mv empire/death_star/millenium_falcon rebellion
+  183  mv empire/death_star/darth_vader.txt empire
+  184  rm -rf empire/death_star
+  185  git add .
+  186  git status
+  187  cd ..
+  188  git add .
+  189  git status
+  190  git commit -m "Finished Assignment"
+  191  git push origin master
