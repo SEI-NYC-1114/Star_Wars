@@ -1,0 +1,202 @@
+sudo Is /var/spool/cups
+    2  hello
+    3  where am I?
+    4  pwd
+    5  pwd
+    6  ls
+    7  cd Documents
+    8  ls
+    9  ls -a
+   10  cd..
+   11  cd ..
+   12  pwd
+   13  cd Desktop
+   14  ~
+   15  cd~
+   16  cd ~
+   17  mkdir myfolder
+   18  pwd
+   19  ls
+   20  cd myfolder
+   21  touch index.html style.css
+   22  rm style.css
+   23  ls
+   24  cd ..
+   25  rm -r myfolder
+   26  ls
+   27  cd ~
+   28  cd Downloads
+   29  cd world
+   30  ls
+   31  pwd .carmen_sandiego.png
+   32  ls -a .carmen_sandiego.png
+   33  cd Africa
+   34  ls -a
+   35  cd ..
+   36  cd Asia
+   37  ls
+   38  ls -a
+   39  cd ..
+   40  cd Australia
+   41  ls -a
+   42  cd ..
+   43  cd Europe
+   44  ls -a
+   45  cd ~
+   46  $ brew install git
+   47  brew install git
+   48  git --version
+   49  cd Desktop
+   50  mkdir GA-Blog
+   51  cd GA-Blog
+   52  touch .git/
+   53  .git/
+   54  git init
+   55  ls -a
+   56  git status
+   57  touch post.txt
+   58  git status
+   59  git add post.txt
+   60  git status
+   61  git log
+   62  git add posts.txt
+   63  git commit -m "saving post.txt"
+   64  git log
+   65  cd ~
+   66  cd Desktop
+   67  cd General Assembly
+   68  ls
+   69  cd General-Assembly
+   70  cd General Assembly
+   71  pwd
+   72  cd General-Assembly
+   73  mkdir git-practice
+   74  cd git-practice
+   75  pwd
+   76  git init
+   77  git status
+   78  cd ..
+   79  cd git-practice
+   80  git status
+   81  ls -a
+   82  touch README.txt
+   83  git status
+   84  git add README.txt
+   85  git status
+   86  git commit -m "created new README.txt"
+   87  git clone https://github.com/individual-ism/node.git
+   88  git add node
+   89  git init
+   90  LS
+   91  cd library
+   92  ls
+   93  echo $SHELL
+   94  code .
+   95  code
+   96  code .
+   97  cd documents
+   98  code .
+   99  code .
+  100  brew doctor
+  101  brew update
+  102  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  103  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  104  brew doctor
+  105  brew update
+  106  brew update
+  107  brew doctor
+  108  brew install git
+  109  git config --global user.name "individual-ism"
+  110  git config --global user.email "alexlchang@icloud.com"
+  111  git config --global init.defaultBranch main
+  112  git config --global core.editor "code --wait"
+  113  git config --global pull.rebase false
+  114  touch ~/.gitignore_global
+  115  git config --global core.excludesfile ~/.gitignore_global
+  116  code ~/.gitignore_global
+  117  .gitignore_global
+  118  brew install gh
+  119  gh auth login
+  120  brew install node
+  121  node -v\nnpm -v
+  122  npm i -g nodemon
+  123  npm install -g npm@9.1.1
+  124  touch music/jets.txt music/giants.txt music/eagles.txt
+  125  mv music/giants.txt football
+  126  mv music/*.txt football
+  127  mkdir basketball music football art
+  128  mkdir ~/sei-nyc-1114/code-alongs/terminal/new-directory
+  129  mkdir sei-nyc-1114
+  130  cd sei-nyc-1114
+  131  mkdir code-alongs deliverables unit-one labs sandbox
+  132  cd code-alongs
+  133  touch notes.txt
+  134  mkdir code-alongs
+  135  cd code-alongs
+  136  mkdir music && cd music
+  137  touch music/giants.txt music/eagles.txt music/jets.txt
+  138  cd . .
+  139  pwd
+  140  cd ..
+  141  git clone https://github.com/individual-ism/Star_Wars
+  142  git init
+  143  touch notes.txt
+  144  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  145  git clone https://github.com/individual-ism/Star_Wars/tree/master
+  146  git clone https://github.com/individual-ism/Star_Wars/
+  147  git .
+  148  cd ..
+  149  ls
+  150  cd individual
+  151  ls
+  152  cd desktop
+  153  git clone https://github.com/individual-ism/Star_Wars/
+  154  code .
+  155  gh repo clone individual-ism/github_101
+  156  code .
+  157  rm Star_Wars
+  158  mkdir star_wars
+  159  touch star_wars/empire/emperor_palpatine.txt
+  160  mkdir star_wars/empire/death_star
+  161  cd star_wars/empire
+  162  ls
+  163  cd ..
+  164  mv star_wars/empire/darth_vader.txt star_wars/empire/death_star
+  165  git add .
+  166  git commit -m "Act 1 Complete"
+  167  git push origin master
+  168  echo "Help me, Obi-Wan...You're my only hope." >> touch star_wars/rebellion/princess_leia.txt
+  169  echo "Help me, Obi-Wan...You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  170  cd star_wars
+  171  ls
+  172  mkdir rebellion
+  173  cd ..
+  174  echo "Help Me, Obi-Wan...You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  175  touch obi_wan.txt star_wars/rebellion
+  176  touch star_wars/rebellion/obi_wan.txt
+  177  touch star_wars/rebellion/luke_skywalker.txt
+  178  mkdir star_wars/rebellion/millenium_falcon
+  179  touch star_wars/rebellion/millenium_falcon/han_solo.txt star_wars/rebellion/millenium_falcon/chewbacca.txt
+  180  mv star_wars/rebellion/*.txt star_wars/rebellion/millenium_falcon
+  181  mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
+  182  git add .
+  183  git commit -m "Act 2 Complete"
+  184  git push origin master
+  185  mv star_wars/empire/death_star/millenium_falcon/*.txt star_wars/empire/death_star
+  186  rm star_wars/empire/death_star/obi_wan.txt
+  187  mv star_wars/empire/death_star/chewbacca.txt star_wars/empire/death_star/millenium_falcon
+  188  mv star_wars/empire/death_star/han_solo.txt star_wars/empire/death_star/millenium_falcon
+  189  mv star_wars/empire/death_star/luke_skywalker.txt star_wars/empire/death_star/millenium_falcon
+  190  mv star_wars/empire/death_star/princess_leia.txt star_wars/empire/death_star/millenium_falcon
+  191  mv star_wars/empire/death_star/millenium_falcon star_wars/rebellion
+  192  mv star_wars/empire/death_star/darth_vader.txt star_wars/empire
+  193  rm star_wars/empire/death_star
+  194  cd star_wars/empire
+  195  rm -rf star_wars/empire/death_star
+  196  rm -rf death_star
+  197  cd ..
+  198  mkdir star_wars/empire/death_star
+  199  rm -rf star_wars/empire/death_star
+  200  git add .
+  201  git commit -m "Act 3 Complete"
+  202  git push origin master
