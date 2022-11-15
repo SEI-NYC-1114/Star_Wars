@@ -1,0 +1,35 @@
+/Users/anna/.zprofile:export:4: not valid in this context: PATH,
+anna@void-air test % mkdir star_wars
+anna@void-air test % mkdir star_wars/rebellion                 
+anna@void-air test % mkdir star_wars/empire
+anna@void-air test % touch star_wars/empire/darth_vader.txt
+anna@void-air test % echo "...heavy breathing..." >> star_wars/empire/darth_vader.txt
+anna@void-air test % touch star_wars/empire/emperor_palpatine.txt
+anna@void-air test % mkdir empire/death_star
+mkdir: empire: No such file or directory
+anna@void-air test % mkdir star_wars/empire/death_star
+anna@void-air test % mv star_wars/empire/darth_vader.txt death_star 
+anna@void-air test % mv death_star star_wars/empire/darth_vader.txt
+anna@void-air test % mv star_wars/empire/darth_vader.txt star_wars/empire/death_star 
+anna@void-air test % echo "Help me, Obi-Wan…You’re my only hope." >> star_wars/rebellion/princess_leia.txt
+anna@void-air test % touch star_wars/rebellion/obi_wan.txt
+anna@void-air test % touch star_wars/rebellion/luke_skywalker.txt           
+anna@void-air test % mkdir star_wars/rebellion/millenium_falcon
+anna@void-air test % touch star_wars/rebellion/millenium_falcon/han_solo.txt
+anna@void-air test % touch star_wars/rebellion/millenium_falcon/chewbacca.txt            
+anna@void-air test % mv star_wars/rebellion/*.txt star_wars/rebellion/millenium_falcon/ 
+anna@void-air test % mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star/ 
+anna@void-air test % mv star_wars/empire/death_star/millenium_facon/*.txt star_wars/empire/death_star/  
+zsh: no matches found: star_wars/empire/death_star/millenium_facon/*.txt
+anna@void-air test % ls star_wars/empire/death_star/millenium_facon                                   
+ls: star_wars/empire/death_star/millenium_facon: No such file or directory
+anna@void-air test % ls star_wars/empire/death_star/millenium_falcon 
+chewbacca.txt           luke_skywalker.txt      princess_leia.txt
+han_solo.txt            obi_wan.txt
+anna@void-air test % mv star_wars/empire/death_star/millenium_falcon/*.txt star_wars/empire/death_star 
+anna@void-air test % rm star_wars/empire/death_star/obi_wan.txt 
+anna@void-air test % mv star_wars/empire/death_star/han_solo.txt star_wars/empire/death_star/chewbacca.txt star_wars/empire/death_star/luke_skywalker.txt star_wars/empire/death_star/princess_leia.txt star_wars/empire/death_star/millenium_falcon
+anna@void-air test % mv star_wars/empire/death_star/millenium_falcon/ star_wars/rebellion  
+anna@void-air test % mv star_wars/empire/death_star/darth_vader.txt star_wars/empire 
+anna@void-air test % rm -r star_wars/empire/death_star
+anna@void-air test %                      
