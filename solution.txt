@@ -1,0 +1,129 @@
+85  git init
+   86  git clone https://github.com/argurjanaolloni/Star_Wars
+   87  ls
+   88  cd Star_Wars
+   89  ls
+   90  touch notes.txt
+   91  ls
+   92  cd ..
+   93  ls
+   94  ls -a
+   95  ls -a
+   96  rm -rf .git
+   97  pwd
+   98  ls -a
+   99  git status
+  100  ls -a
+  101  git branch
+  102  mkdir star_wars
+  103  cd star_wars
+  104  mkdir empire rebellion
+  105  touch star_wars/empire/darth_vader.txt
+  106  echo "...heavy breathing...">>darth_vader.txt
+  107  ls -a
+  108  cd applications
+  109  ls -a
+  110  cd ..
+  111  git branch
+  112  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  113  echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/ari/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/ari/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  114  echo $SHELL
+  115  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  116  brew doctore
+  117  brew doctor
+  118  brew update
+  119  xcode-select --install
+  120  Software Update
+  121  brew install git
+  122  git config --global user.name "argurjanaolloni"
+  123  git config --global user.email "argurjanaolloni@gmail.com"
+  124  git config --global init.defaultBranch main
+  125  git config --global core.editor "code --wait"
+  126  git config --global pull.rebase false
+  127  touch ~/.gitignore_global
+  128  git config --global core.excludesfile ~/.gitignore_global
+  129  code ~/.gitignore_global
+  130  git config --global core.excludesfile ~/.gitignore_global
+  131  code ~/.gitignore_global
+  132  mkdir ~/.npm-global
+  133  npm config set prefix '~/.npm-global'
+  134  npm config set prefix '~/.npm-global'\nexport PATH=~/.npm-global/bin:$PATH\nsource ~/.profile
+  135  pwd
+  136  git config --global core.excludesfile ~/.gitignore_global
+  137  code ~/.gitignore_global
+  138  echo "...heavy breathing..." >> star_wars/empire/darth_vader.txt
+  139  mkdir star_wars/empire/emperor_palpatine.txt
+  140  cd empire
+  141  ls
+  142  cd star_wars
+  143  cd ..
+  144  cd star_wars/empire
+  145  mkdir death_star
+  146  ls
+  147  mv darth_vader.txt death_star
+  148  code ~/.gitignore_global
+  149* brew install gh
+  150* gh auth login
+  151  pwd
+  152* brew install node
+  153* node -v
+  154* npm -v
+  155* npm i -g nodemon
+  156* npm install -g npm@9.1.1
+  157* npm i -g nodemon
+  158* npm -v
+  159  cd star_wars/rebellion
+  160  cd ..
+  161  cd rebellion
+  162* pwd
+  163* ls
+  164* cd Star_Wars
+  165* ls -a
+  166* cd star_wars
+  167* ls -a
+  168* ls
+  169* cd empire
+  170* ls
+  171* cd death_star
+  172* ls
+  173  touch princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope."\n
+  174  pwd
+  175  touch princess_leia.txt && echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt\n
+  176  touch obi_wan.txt
+  177  touch luke_skywalker.txt
+  178  mkdir millenium_falcon
+  179  cd millenium_falcon
+  180  echo han_solo.txt chewbacca.txt
+  181  echo han_solo.txt && echo chewbacca.txt
+  182  touch han_solo.txt chewbacca.txt
+  183  cd ..
+  184  pwd
+  185  cd ~
+  186  pwd
+  187  cd Star_Wars
+  188  cd star_wars
+  189  cd rebellion
+  190  mkdir millenium_falcon
+  191  cd millenium_falcon && touch han_solo.txt chewbacca.txt
+  192  mv ~/Star_Wars/star_wars/rebellion/luke_skywalker.txt ~/Star_Wars/star_wars/rebellion/millenium_falcon
+  193  mv ~/Star_Wars/star_wars/rebellion/obi_wan.txt ~/Star_Wars/star_wars/rebellion/millenium_falcon 
+  194  mv ~/Star_Wars/star_wars/rebellion/princess_leia.txt ~/Star_Wars/star_wars/rebellion/millenium_falcon
+  195  mv ~/Star_Wars/star_wars/rebellion/millenium_falcon ~/Star_Wars/star_wars/empire/death_star
+  196  *.millenium_falcon ~/Star_Wars/star_wars/empire/death_star
+  197  *.txt ~/Star_Wars/star_wars/empire/death_star \nzsh: no matches found: *.millenium_falcon
+  198  mv *.txt ~/Star_Wars/star_wars/empire/death_star
+  199  cd.. && rm obi_wan.txt
+  200  cd..
+  201  pwd
+  202  cd ..
+  203  cd millenium_falcon
+  204  cd .. && rm obi_wan.txt
+  205  mv chewbacca.txt ~/Star_Wars/star_wars/empire/death_star/millenium_falcon && mv han_solo.txt ~/Star_Wars/star_wars/empire/death_star/millenium_falcon && mv luke_skywalker.txt ~/Star_Wars/star_wars/empire/death_star/millenium_falcon && mv princess_leia.txt ~/Star_Wars/star_wars/empire/death_star/millenium_falcon
+  206  mv ~/Star_Wars/star_wars/empire/death_star/millenium_falcon ~/Star_Wars/star_wars/rebellion
+  207  mv darth_vader.txt ~/Star_Wars/star_wars/empire/
+  208  cd .. && rm death_star
+  209  ls
+  210  cd death_star
+  211  cd .. && rm -rf death_star/
+  212  rm -rf ~/Star_Wars/star_wars/empire/emperor_palpatine.txt 
+  213  touch emperor_palpatine.txt
