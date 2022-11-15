@@ -1,0 +1,17 @@
+292  cd millenium_falcon
+  293  ls
+  294  cd ..
+  295  rm  obi_wan.txt
+  296  ls
+  297  ls
+  298  cd millenium_falcon
+  299  ls
+  300  cd ..
+  301  ls
+  302  mv han_solo.txt chewbacca.txt luke_skywalker.txt millenium_falcon
+  303  ls
+  304  mv princess_leia.txt millenium_falcon
+  305  ls
+  306  cd millenium_falcon
+  307  ls
+bryantperez@bryants-MacBook-Pro millenium_falcon %  
