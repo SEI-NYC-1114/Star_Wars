@@ -1,0 +1,16 @@
+  216  cd empire
+  217  mv darth_vader.txt ../
+  218  cd ..
+  219  mv darth_vader.txt empire
+  220  cd empire
+  221  ls
+  222  mv darth_vader.txt ..
+  223  cd ..
+  224  mv darth_vader.txt empire
+  225  cd empire
+  226  mv darth_vader.txt empire
+  227  mv empire darth_vader.txt
+  228  rm death_star
+  229  git add .
+  230  git commit -m "Katherine Souza Star Wars CLI Act III (the actual act 3, the other one was a type for act 2)"
+  231  git push
