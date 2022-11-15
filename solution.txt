@@ -1,0 +1,68 @@
+ 190  git clone https://github.com/Kan5661/Star_Wars
+  191  ls
+  192  cd Star_Wars/
+  193  mkdir star_wars empire
+  194  cd star_wars/
+  195  ls
+  196  mkdir rebellion
+  197  ls
+  198  cd empire/
+  199  touch emperor_palpatine.txt
+  200  mkdir death_star
+  201  mv death_vader.txt /death_star
+  202  mv darth_vader.txt /death_stargit
+  203  mv darth_vader.txt death_star
+  204  cd ..
+  205  ls
+  206  cd rebellion/
+  207  touch princess_leia.txt && echo "Help me, Obi-Wan...You're my only hope." >> princess_leia.txt
+  208  touch obi_wan.txt 
+  209  touch luke_skywalker.txt
+  210  mkdir millenium_falcon
+  211  cd millenium_falcon
+  212  touch han_solo.txt chewbacca.txt
+  213  cd ..
+  214  mv *.txt millenium_falcon/
+  215  ls
+  216  mv millenium_falcon/ .. && mv millenium empire/death_star
+  217  mv millenium_falcon empire/death_star
+  218  cd ..
+  219  mv millenium_falcon empire/death_star
+  220  ls
+  221  cd empire/death_star/millenium_falcon/
+  222  mv *.txt ..
+  223  cd ..
+  224  rm obi_wan.txt 
+  225  mv /* millenium_falcon/
+  226  mv *.txt millenium_falcon/
+  227  ls
+  228  cd millenium_falcon/
+  229  ls
+  230  cd ..
+  231  ls
+  232  cd death_star/millenium_falcon/
+  233  mv *.txt ..
+  234  cd ..
+  235  mv *.txt ..
+  236  cd ..
+  237  cd death_star/
+  238  ls
+  239  cd ..
+  240  ls
+  241  cd ..
+  242  ls
+  243  cd empire/
+  244  mv *.txt ..
+  245  cd ..
+  246  ls
+  247  mv darth_vader.txt empire 
+  248  mv *.txt rebellion
+  249  cd empire/
+  250  ls
+  251  rm darth_vader.txt 
+  252  ls
+  253  cd ..
+  254  git add .
+  255  git commit -m "star wars homework"
+  256  git push origin
+  257  history
