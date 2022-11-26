@@ -12,3 +12,5 @@ touch star_wars/empire/emperor_palpatine.txt
 cd star_wars cd empire mkdir death_star
 # 7. Move darth_vader.txt into the death_star
 mv star_wars/empire/darth_vader.txt star_wars/empire/death_star
+
+# I finsihed my homework!
