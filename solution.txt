@@ -1,0 +1,366 @@
+133  ..
+  134  cd labs
+  135  git clone https://github.com/rjcrowderschaefer/Star_Wars.git
+  136  clear
+  137  cd Star_Wars
+  138  pwd
+  139  cd week_1
+  140  cd unit_1
+  141  cd week_1
+  142  cd wk1_d3
+  143  cd labs
+  144  cd Star_Wars
+  145  open act2.sh
+  146  pwd
+  147  ..
+  148  /..
+  149  pwd
+  150  ..
+  151  clear
+  152  pwd
+  153  cd unit_1
+  154  pwd
+  155  cd labs
+  156  cd Star_Wars
+  157  clear
+  158  pwd
+  159  cd SEI Units
+  160  open https://github.com/rjcrowderschaefer/Star_Wars.git
+  161  git clone https://github.com/rjcrowderschaefer/Star_Wars.git
+  162  . code
+  163  code .
+  164  \tcd unit_1
+  165  cd week_1
+  166  cd wk1_d3
+  167  cd labs
+  168  cd Star_Wars
+  169  mkdir star_wars
+  170  cd star_wars
+  171  mkdir rebellion empire
+  172  cd empire
+  173  touch darth_vader.txt
+  174  echo "...heavy breaking..." >> star_wars/empire/darth_vader.txt
+  175  pwd
+  176  echo "...heavy breathing..." >> darth_vader.txt
+  177  pwd
+  178  touch emperor_palpatine.txt
+  179  pwd
+  180  mkdir death_star
+  181  mv darth_vader.txt death_star
+  182  git add .
+  183  git commit -m "Completed Act 1"
+  184  pwd
+  185  cd rebellion
+  186  ..
+  187  cd rebellion
+  188  touch princess_leia.txt echo "Help me, Obi-Wan…You’re my only hope."
+  189  rm echo
+  190  rm Help me, Obi-Wan…You’re my only hope.
+  191  ..
+  192  mk dir star_wars
+  193  mkdir star_wars
+  194  cd star_wars
+  195  mkdir empire rebellion
+  196  cd empire
+  197  touch darth_vader.txt
+  198  echo "...heavy breathing..." >> star_wars/empire/darth_vader.txt
+  199  pwd
+  200  cd empire
+  201  pwd
+  202  touch emperor_palpatine.txt
+  203  mkdir death_star
+  204  mv darth_vader.txt death_star
+  205  history
+  206  pwd
+  207  cd rebellion
+  208  cd star_wars
+  209  cd rebellion
+  210  cd star_wars
+  211  ls
+  212  cd Star_Wars
+  213  pwd
+  214  cd star_wars
+  215  cd Star_Wars
+  216  pwd
+  217  ..
+  218  cd rebellion
+  219  touch princess_leia.txt echo "Help me, Obi-Wan..You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  220  echo "Help me, Obi-Wan..You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  221  pwd
+  222  Echo "Help me, Obi-Wan..You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  223  ..
+  224  Echo "Help me, Obi-Wan..You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  225  rm princess_leia.txt
+  226  ..
+  227  cd star_wars
+  228  cd rebellion
+  229  rm princess_leia.txt
+  230  echo "Help me, Obi-Wan..You're my only hope." >> star_wars/rebellion/princess_leia.txt
+  231  clear
+  232  ..
+  233  ~
+  234  pwd
+  235  cd SEI Units
+  236  cd unit_1
+  237  cd SEI UNITS
+  238* git clone https://github.com/SEI-R-11-8/template_pull_request.git
+  239* code .
+  240* git clone https://github.com/rjcrowderschaefer/Star_Wars.git
+  241* code .
+  242  pwd
+  243  cd SEI UNITS
+  244  CD SEI-UNITS
+  245  CD SEIUNITS
+  246  CD unit_1
+  247  pwd
+  248  ls
+  249  cd SEI Units
+  250  cd SEI/Units
+  251  CD SEI / Units
+  252  cd "SEI Units"
+  253  cd unit_1
+  254  cd week_1
+  255  cd wk1_d3
+  256  cd labs
+  257  cd Star_Wars
+  258  ls
+  259  mv Star_Wars labs
+  260  ..
+  261  cd labs
+  262  ls
+  263  ..
+  264  ls
+  265  cd labs
+  266  cd arrays_lab
+  267  mv Star_Wars labs
+  268  ls
+  269  ..
+  270  ls
+  271  cd arrays_lab
+  272  ls
+  273  cd labs
+  274  ls
+  275  clear
+  276  ¬pwd
+  277  pwd
+  278  ..
+  279  ~
+  280  vd unit_1
+  281  cd unit_1`1
+  282  cd unit_1
+  283  cd "SEI UNITS"
+  284  cd unit_1
+  285  cd week_1
+  286  cd wk1_d3
+  287  cd labs
+  288  git clone https://github.com/rjcrowderschaefer/Star_Wars.git
+  289  ls
+  290  cd Star_Wars
+  291  mkdir star_wars
+  292  cd star_wars
+  293  mkdir empire rebellion
+  294  cd empire
+  295  touch darth_vader.txt
+  296  echo "...heavy breathing..." >> darth_vader.txt
+  297  pwd
+  298  touch emperor_palpatine.txt
+  299  mkdir death_star
+  300  mv darth_vader.txt death_star
+  301  git add .
+  302  git commit -m "Completed act 1 without any issues"
+  303  pwd
+  304  ..
+  305  cd rebellion
+  306  echo "Help me, Obi-Wan...You\'re my only hope." >> princess_leia.txt
+  307  echo "Help me, Obi-Wan...You're my only hope." >> princess_leia.txt
+  308  pwd
+  309  touch obi_wan.txt
+  310  touch luke_skywalker.txt
+  311  mkdir millenium_falcon
+  312  cd millenium_falcon
+  313  touch han_solo.txt chewbacca.txt
+  314  mv -t millenium_falcon luke_skywalker.txt obi_wan.txt princess_leia.txt
+  315  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  316  ..
+  317  cd millenium_falcon
+  318  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  319  mv luke_skywalker.txt obi_wan.txt princess_leia.txt /star_wars/rebellion/millenium_falcon
+  320  ..
+  321  mv luke_skywalker.txt obi_wan.txt princess_leia.txt /star_wars/rebellion/millenium_falcon
+  322  ls
+  323  mv luke_skywalker.txt millenium_falcon
+  324  mv obi_wan.txt millenium_falcon
+  325  mv princess_leia.txt millenium_falcon
+  326  mv millenium_falcon death_star
+  327  pwd
+  328  mkdir millenium_falcon
+  329  cd death_star
+  330  mv chewbacca.txt millenium_falcon
+  331  mv millenium_falcon.txt chewbacca
+  332  rm millenium_falcon
+  333  touch chewbacca.txt
+  334  mv chewbacca.txt /millenium_falcon
+  335  ..
+  336  rm millenium_falcon
+  337  rm /millenium_falcon
+  338  pwd
+  339  ..
+  340  cd rebellion
+  341  ls
+  342  cd millenium_falcon
+  343  rm millenium_falcon
+  344  ..
+  345  cd death_star
+  346  mv /rebellion/death_star/chewbacca.txt /rebellion/millenium_falcon
+  347  pwd
+  348  cd millenium_falcon
+  349  ..
+  350  cd millenium_falcon
+  351  mv chewbacca.txt millenium_falcon
+  352  rm millenium_falcon
+  353  cd /millenium_falcon
+  354  ..
+  355  ~
+  356  cd unit_1
+  357  cd "SEI UNITS"
+  358  cd /unit_1/week_1/wk1_d3/labs/Star_Wars
+  359  cd unit_1
+  360  cd week_1
+  361  cd wk1_d3
+  362  cd labs
+  363  cd Star Wars
+  364  cd Star_Wars
+  365  cd star_wars
+  366  cd rebellion
+  367  mkdir millenium_falcon
+  368  mv chewbacca.txt millenium_falcon
+  369  cd millenium_falcon
+  370  ls
+  371  mv millenium_falcon /empire/death_star
+  372  mv /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star
+  373  mv unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire
+  374  ..
+  375  mv /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star
+  376  mv /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire
+  377  ..
+  378  cd star_wars
+  379  ls
+  380  cd rebellion
+  381  cd millenium_falcon
+  382  ls
+  383  mv /millenium_falcon /empire/death_star
+  384  ..
+  385  mv {/Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon} /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star
+  386  mv unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion/millenium_falcon unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star
+  387  mv rebellion/millenium_falcon empire/death_star/
+  388  git add .
+  389  git commit -m "Completed all questions for act 2"
+  390  mv death_star/millenium_falcon/* empire/death_star
+  391  mv millenium/falcon* empire/death_star/
+  392  cd empire
+  393  mv death_star/millenium_falcon/* empire/death_star/
+  394  cd death_star
+  395  mv death_star/millenium_falcon/* empore/death_star/
+  396  mv death_star/millenium_falcon/* empire/death_star/
+  397  cd millenium_falcon
+  398  mv millenium_falcon/* empire/death_star/
+  399  mv -v /millenum_falcon/* empire/death_star/
+  400  ls
+  401  ..
+  402  mv -v /millenium_falcon/* empire/death_star/
+  403  ..
+  404  cd star_wars
+  405  mv death_star/millenium_falcon/* empire/death_star/
+  406  mv death_star/millenium_falcon* empre_death_star/
+  407  cd empire
+  408  mv death_star/millenium_falcon/* empire/death_star/
+  409  cd death_star
+  410  ls
+  411  ..
+  412  mv death_star/millenium_falcon/* unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star
+  413  cd death_star
+  414  mv death_star/millenium_falcon/* empire/death_star/
+  415  mv /death_star/millenium_falcon/* empire/death_star/
+  416  mv millenium/falcon/ Millenium_falcon
+  417  ..
+  418  ls
+  419  cd
+  420  ls
+  421  cd "SEI UNITS"
+  422  cd unit_1
+  423  cd week_1
+  424  cd wk1_d3
+  425  cd labs
+  426  cd Star_Wars
+  427  cd star_wars
+  428  cd empire
+  429  cd death_star
+  430  mv millenium_falcon/* death_star/
+  431  mv death_star/ Death_star/
+  432  pwd
+  433  ..
+  434  mv millenium_falcon/* death_star/
+  435  mv /death_star/millenium_falcon/* empire/death_star/
+  436  cd death_star
+  437  cd millenium_falcon
+  438  ls
+  439  mv /death_star/millenium_falcon/* empire/death_star/
+  440  mv millenium_falcon* empire/death_star/
+  441  ..
+  442  rm obi-wan.txt
+  443  ..
+  444  rm obi-wan.txt
+  445  cd death_star
+  446  rm obi-wan.txt
+  447  rm /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star/obi_wan.txt
+  448  ls
+  449  rm obi_wan.txt
+  450  ls
+  451  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt /death_star/millenium_falcon/
+  452  cd millenium_falcon
+  453  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt /death_star/millenium_falcon/
+  454  mv /death_star/millenium_falcon/* empire/death_star
+  455  mv ./* ../
+  456  ..
+  457  rm obi_wan.txt
+  458  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_laia.txt millenium_falcon/
+  459  mv princess_leia.txt millenium_falcon/
+  460  cd death_star
+  461  mv ./ rebellion/
+  462  mv millenium_falcon rebellion/
+  463  mv millenium_falcon unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion
+  464  pwd
+  465  mv darth_vader.txt /star_wars/rebellion
+  466  ..
+  467  mv /death_star/darth_vader.txt star_wars/rebellion/
+  468  ..
+  469  mv unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star/darth_vader.txt unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion
+  470  cd star_wars
+  471  cd empire
+  472  ls
+  473  ..
+  474  mv /death_star/darth_vader.txt empire/rebellion/
+  475  git add .
+  476  git commit -m "I need to get some guidance on act 3"
+  477  history | tail -n 500
+  478  clear
+  479  ..
+  480  cd arrays_lab
+  481  node arrays.js
+  482  clear
+  483  ..
+  484  cd Star_Wars
+  485  mv /death_star/darth_vader.txt empire/rebellion
+  486  mv /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star/darth_vader.txt /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/rebellion
+  487  cd star_wars
+  488  mv /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire/death_star/darth_vader.txt /Users/rjcrowderschaefer/SEI Units/unit_1/week_1/wk1_d3/labs/Star_Wars/star_wars/empire
+  489  cd death_star
+  490  ls
+  491  cd empire/death_star
+  492  cd ../..
+  493  mv empire/death_star/darth_vader.txt empire/
+  494  tree
+  495* brew install tree
+  496* tree
+  497* cd "SEI UNITS"
+  498* tree
