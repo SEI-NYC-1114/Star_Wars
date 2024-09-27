@@ -1,0 +1,30 @@
+291    git clone https://github.com/nicsilve/Star_Wars.git
+  292  mv Star_Wars Documents/sei
+  293  cd Documents
+  294  cd sei
+  295  cd Star_Wars
+  296  code .
+  297  ls
+  298  mkdir star_wars
+  299  mkdir rebellion empire
+  300  rm -r empire rebellion
+  301  cd star_wars
+  302  mkdir rebellion empire
+  303  touch empire/darth_vader.txt
+  304  echo "...heavy breathing..." >> empire/darth_vader.txt 
+  305  touch empire/emperor_palpatine.txt
+  306  mkdir empire/death_star
+  307  mv empire/darth_vader.txt empire/death_star
+  308  echo "Help me, Obi-Wan…You’re my only hope." >> rebellion/princess_leia.txt
+  309  touch rebellion/obi_wan.txt
+  310  touch rebellion/luke_skywalker.txt
+  311  mkdir rebellion/millenium_falcon
+  312  touch rebellion/millenium_falcon/han_solo.txt rebellion/millenium_falcon/chewbacca.txt
+  313  mv rebellion/luke_skywalker.txt rebellion/millenium_falcon\nmv rebellion/obi_wan.txt rebellion/millenium_falcon\nmv rebellion/princess_leia.txt rebellion/millenium_falcon
+  314  mv rebellion/millenium_falcon empire/death_star
+  315  mv empire/death_star/millenium_falcon/* empire/death_star
+  316  rm empire/death_star/obi_wan.txt
+  317  mv empire/death_star/chewbacca.txt empire/death_star/millenium_falcon\nmv empire/death_star/han_solo.txt  empire/death_star/millenium_falcon\nmv empire/death_star/luke_skywalker.txt empire/death_star/millenium_falcon\nmv empire/death_star/princess_leia.txt empire/death_star/millenium_falcon
+  318  mv empire/death_star/millenium_falcon rebellion
+  319  mv empire/death_star/darth_vader.txt empire
+  320  rm -r empire/death_star
